@@ -9,7 +9,6 @@
 <h1>ServiceNow Ticketing Lifecycle</h1>
 In this tutorial, I explore aspects of serviceNows Ticketing system. <br />
 
-https://old.bitchute.com/video/9JzeY36a6wPy/
 <h2>Video Demonstration</h2>
 
 - ### [Bitchute:ServiceNow Ticketing Demo](https://old.bitchute.com/video/9JzeY36a6wPy/))
