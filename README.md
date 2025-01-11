@@ -1,7 +1,8 @@
-# azure-network-protocols
+#  ServiceNow
 
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="![download](https://github.com/user-attachments/assets/089c937c-cd00-4682-b5f6-ac9b2c3bddfe)
+" alt="Ticketing demo"/>
 </p>
 
 <h1>ServiceNow Ticketing Lifecycle</h1>
@@ -10,22 +11,18 @@ In this tutorial, I explore aspects of serviceNows Ticketing system. <br />
 https://old.bitchute.com/video/9JzeY36a6wPy/
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [Bitchute:ServiceNow Ticketing Demo](https://old.bitchute.com/video/9JzeY36a6wPy/))
 
 <h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+-ServiceNow Developers
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
+
+Objective: Comprehenive overview of ServiceNow TIcketing Lifecycle
 
 Step one ticket creation: 
 
@@ -64,10 +61,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
