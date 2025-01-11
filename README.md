@@ -1,7 +1,7 @@
 #  ServiceNow
 
 <p align="center">
-<img src="![download](https://github.com/user-attachments/assets/089c937c-cd00-4682-b5f6-ac9b2c3bddfe)
+<img src="![download]
 " alt="Ticketing demo"/>
 </p>
 
