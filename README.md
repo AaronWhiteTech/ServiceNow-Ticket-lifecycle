@@ -45,20 +45,10 @@ Step 3 Ticket Resolution
 -Keep documentation of the process taken to resolve issue for future developments
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![service now screen shot](https://github.com/user-attachments/assets/298b866c-e5cd-444e-8fb5-01aafba6a63a)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+In the following screenshot I intake the user "Abraham Lincoln"s Ticket,via the channel "phone" (phonecall to the helpdesk), Creating descriptions of the problem described
+ Assesing the problem, which is n active directory account lockout, Assesing the priority (low-3) and impact (low-3),
+ Assigning the ticket to the proper group and staff member.
 
