@@ -24,7 +24,7 @@ In this tutorial, I explore aspects of serviceNows Ticketing system. <br />
 
 Objective: Comprehenive overview of ServiceNow TIcketing Lifecycle
 
-Step one ticket creation: 
+<h5>Step one ticket creation</h5>
 
 -identifying the user,
 -The user's problem. 
@@ -32,14 +32,14 @@ Step one ticket creation:
 -The severity of the problem. 
 -The impact of the problem.
 
-Step two Working this ticket:
+<h4>Step two Working this ticket</h4>
 
 -Taking taking steps to resolve problem 
 -Collaborating with teamates with internal notes
 -Keeping the user updted via proper channels
 -Utilize the knowledgebase for refrence
 
-Step 3 Ticket Resolution
+<h3>Step 3 Ticket Resolution</h3>
 
 =Relay to the customer the issue has been resloved
 -Keep documentation of the process taken to resolve issue for future developments
