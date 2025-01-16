@@ -1,9 +1,10 @@
 #  ServiceNow
 
 <p align="center">
-<img src="![service](https://github.com/user-attachments/assets/5bcd2704-6f37-43bf-9a77-4475e4d37b71)
 
-" alt="Ticketing demo"/>
+![service](https://github.com/user-attachments/assets/5bcd2704-6f37-43bf-9a77-4475e4d37b71)
+
+
 </p>
 
 <h1>ServiceNow Ticketing Lifecycle</h1>
